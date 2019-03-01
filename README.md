@@ -1,2 +1,1 @@
-# tasks-backend
-backend of app tasks using nodejs, express, knex, body-parser, consign, cors, passport and possport-jwt
+this project was developed to be the backend of application tasks 
